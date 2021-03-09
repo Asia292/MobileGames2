@@ -1,0 +1,18 @@
+[
+  {
+    "objectSlug": "rope",
+    "itemName": "Rope",
+    "description": "Used to help you get down.",
+    "itemType": "Tool",
+    "actionName": "Equip",
+    "itemModifier": 0
+  },
+  {
+    "objectSlug": "sugar",
+    "itemName": "Sugar",
+    "description": "Someone back home is waiting for this.",
+    "itemType": "Quest",
+    "actionName": "Inspect",
+    "itemModifier": 0
+  }
+]
